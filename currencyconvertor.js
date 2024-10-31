@@ -23,7 +23,7 @@ btn.addEventListener('click',()=>
     {
         alert("Choose Different Currencies")
     }
-    else if (inputval=='' or result.value!=""){
+    else if (inputval=='' || result.value!=""){
         alert("Enter the currency in the first box")
     }
     else
