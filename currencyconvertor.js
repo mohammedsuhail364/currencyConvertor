@@ -23,6 +23,9 @@ btn.addEventListener('click',()=>
     {
         alert("Choose Different Currencies")
     }
+    else if (curr1==''){
+        alert("Enter the currencies")
+    }
     else
     {
         convert(curr1,curr2,inputval)
