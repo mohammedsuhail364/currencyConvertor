@@ -24,10 +24,6 @@ You can try the live version of the application here: [Currency Converter](https
 2. Select the currencies you want to convert from and to.
 3. Click the **Convert** button to see the result.
 
-## Screenshots
-
-![Currency Converter Screenshot](https://via.placeholder.com/800x400.png?text=Add+Screenshot+Here)
-
 ## Setup Instructions
 
 1. Clone the repository:
